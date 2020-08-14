@@ -10,12 +10,11 @@ feature_status: Released in oVirt 3.6
 
 ## Summary
 
-This feature adds full support for ppc64le platform. Most of the requirements are already implemented by [VDSM's support](/develop/release-management/features/vdsm/for-ppc64/).
+This feature adds full support for ppc64le platform. Most of the requirements are already implemented by [VDSM's support](/develop/release-management/features/virt/for-ppc64.html).
 
 ## Owner
 
 *   name: Martin Polednik (Martin Polednik)
-*   email: <mpolednik@redhat.com>
 
 ## Current Status
 
